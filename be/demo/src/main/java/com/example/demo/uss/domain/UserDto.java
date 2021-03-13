@@ -6,9 +6,9 @@ import org.springframework.stereotype.Component;
 
 import lombok.Data;
 
-@Data
 @Component
-public class UserDto implements Serializable{
+@Data
+public class UserDto implements Serializable {
 	private static final long serialVersionUID = 1L;
 	
 	private long userNo;
@@ -16,4 +16,5 @@ public class UserDto implements Serializable{
 	private String password;
 	private String userName;
 	private String email;
+	
 }

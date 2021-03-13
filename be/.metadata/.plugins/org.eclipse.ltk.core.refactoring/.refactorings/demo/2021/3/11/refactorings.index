@@ -15,3 +15,40 @@
 1615442946833	Copy compilation unit
 1615443470526	Copy compilation unit
 1615444957365	Rename type 'Article'
+1615474527606	Delete elements
+1615474616119	Copy package
+1615474620492	Copy package
+1615474624993	Copy package
+1615474678918	Copy package
+1615474786697	Rename type 'UserDtd'
+1615475652516	Copy package
+1615475656359	Copy package
+1615475665587	Copy package
+1615475669854	Copy package
+1615476015001	Rename type 'BoardRepositoryInmpl'
+1615476180441	Copy package
+1615476184298	Copy package
+1615476188141	Copy package
+1615476192567	Copy package
+1615536448230	Delete element
+1615536462881	Move compilation unit
+1615536471077	Move compilation units
+1615536480563	Move compilation units
+1615536488440	Move compilation units
+1615536494077	Delete elements
+1615536501993	Delete element
+1615536563059	Rename type 'Admin'
+1615537112146	Copy package
+1615537115560	Copy package
+1615537120392	Copy package
+1615537125446	Copy package
+1615537191277	Delete element
+1615537197450	Delete element
+1615537215048	Copy package
+1615537220498	Delete elements
+1615537269022	Copy packages
+1615537333131	Copy packages
+1615537346201	Rename package 'com.example.demo.repository'
+1615537357083	Delete elements
+1615537427950	Delete element
+1615537434035	Rename type 'AdminController'

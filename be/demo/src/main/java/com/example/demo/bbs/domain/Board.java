@@ -12,6 +12,7 @@ public class Board {
 	
 	@Id
 	@GeneratedValue
+	@Column(name="board_no")
 	private long boardNo;
 	
 	@Column(name="user_id")
